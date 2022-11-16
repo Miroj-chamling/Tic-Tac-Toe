@@ -1,4 +1,4 @@
-# mytiktaktoe
+# my tic-tac-toe
 
 Play tic-tac-toe with firends and enjoyyy!
 
